@@ -1,0 +1,24 @@
+C:\Users\10587670\OneDrive\College Work\Computer Science\VisualBasic\Files\Projects & Misc\Textbook Browser\Textbook Browser\bin\Debug\Textbook Browser.exe.config
+C:\Users\10587670\OneDrive\College Work\Computer Science\VisualBasic\Files\Projects & Misc\Textbook Browser\Textbook Browser\bin\Debug\Textbook Browser.exe
+C:\Users\10587670\OneDrive\College Work\Computer Science\VisualBasic\Files\Projects & Misc\Textbook Browser\Textbook Browser\bin\Debug\Textbook Browser.pdb
+C:\Users\10587670\OneDrive\College Work\Computer Science\VisualBasic\Files\Projects & Misc\Textbook Browser\Textbook Browser\bin\Debug\Textbook Browser.xml
+C:\Users\10587670\OneDrive\College Work\Computer Science\VisualBasic\Files\Projects & Misc\Textbook Browser\Textbook Browser\obj\Debug\Textbook Browser.vbprojAssemblyReference.cache
+C:\Users\10587670\OneDrive\College Work\Computer Science\VisualBasic\Files\Projects & Misc\Textbook Browser\Textbook Browser\obj\Debug\Textbook_Browser.Form1.resources
+C:\Users\10587670\OneDrive\College Work\Computer Science\VisualBasic\Files\Projects & Misc\Textbook Browser\Textbook Browser\obj\Debug\Textbook_Browser.Resources.resources
+C:\Users\10587670\OneDrive\College Work\Computer Science\VisualBasic\Files\Projects & Misc\Textbook Browser\Textbook Browser\obj\Debug\Textbook Browser.vbproj.GenerateResource.cache
+C:\Users\10587670\OneDrive\College Work\Computer Science\VisualBasic\Files\Projects & Misc\Textbook Browser\Textbook Browser\obj\Debug\Textbook Browser.vbproj.CoreCompileInputs.cache
+C:\Users\10587670\OneDrive\College Work\Computer Science\VisualBasic\Files\Projects & Misc\Textbook Browser\Textbook Browser\obj\Debug\Textbook Browser.exe
+C:\Users\10587670\OneDrive\College Work\Computer Science\VisualBasic\Files\Projects & Misc\Textbook Browser\Textbook Browser\obj\Debug\Textbook Browser.xml
+C:\Users\10587670\OneDrive\College Work\Computer Science\VisualBasic\Files\Projects & Misc\Textbook Browser\Textbook Browser\obj\Debug\Textbook Browser.pdb
+C:\Users\FinHe\OneDrive\CollegeWork\ComputerScience\VisualBasic\Files\MiscProjects\Textbook Browser\Textbook Browser\bin\Debug\Textbook Browser.exe.config
+C:\Users\FinHe\OneDrive\CollegeWork\ComputerScience\VisualBasic\Files\MiscProjects\Textbook Browser\Textbook Browser\bin\Debug\Textbook Browser.exe
+C:\Users\FinHe\OneDrive\CollegeWork\ComputerScience\VisualBasic\Files\MiscProjects\Textbook Browser\Textbook Browser\bin\Debug\Textbook Browser.pdb
+C:\Users\FinHe\OneDrive\CollegeWork\ComputerScience\VisualBasic\Files\MiscProjects\Textbook Browser\Textbook Browser\bin\Debug\Textbook Browser.xml
+C:\Users\FinHe\OneDrive\CollegeWork\ComputerScience\VisualBasic\Files\MiscProjects\Textbook Browser\Textbook Browser\obj\Debug\Textbook Browser.vbprojAssemblyReference.cache
+C:\Users\FinHe\OneDrive\CollegeWork\ComputerScience\VisualBasic\Files\MiscProjects\Textbook Browser\Textbook Browser\obj\Debug\Textbook_Browser.Form1.resources
+C:\Users\FinHe\OneDrive\CollegeWork\ComputerScience\VisualBasic\Files\MiscProjects\Textbook Browser\Textbook Browser\obj\Debug\Textbook_Browser.Resources.resources
+C:\Users\FinHe\OneDrive\CollegeWork\ComputerScience\VisualBasic\Files\MiscProjects\Textbook Browser\Textbook Browser\obj\Debug\Textbook Browser.vbproj.GenerateResource.cache
+C:\Users\FinHe\OneDrive\CollegeWork\ComputerScience\VisualBasic\Files\MiscProjects\Textbook Browser\Textbook Browser\obj\Debug\Textbook Browser.vbproj.CoreCompileInputs.cache
+C:\Users\FinHe\OneDrive\CollegeWork\ComputerScience\VisualBasic\Files\MiscProjects\Textbook Browser\Textbook Browser\obj\Debug\Textbook Browser.exe
+C:\Users\FinHe\OneDrive\CollegeWork\ComputerScience\VisualBasic\Files\MiscProjects\Textbook Browser\Textbook Browser\obj\Debug\Textbook Browser.xml
+C:\Users\FinHe\OneDrive\CollegeWork\ComputerScience\VisualBasic\Files\MiscProjects\Textbook Browser\Textbook Browser\obj\Debug\Textbook Browser.pdb
